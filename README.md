@@ -1,16 +1,14 @@
-## Hi there 👋
+## looks like you made it here 👀
 
-<!--
-**hodimbokom/hodimbokom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**more context**  
+[rukipomoi.dev](https://www.rukipomoi.dev/)  
+[linkedin](https://www.linkedin.com/in/vlad-mir/)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**occasional contributions**  
+[vuejs/router](https://github.com/vuejs/router/pull/2548)
+  
+**posts happen too**  
+[/story-about-browser-storage](https://www.rukipomoi.dev/story-about-browser-storage)
+  
+**drop a line**  
+rukipomoi@gmail.com  
